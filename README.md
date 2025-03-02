@@ -50,4 +50,4 @@ python storage_checker.py
 
 ## ライセンス
 
-MIT 
+MIT
